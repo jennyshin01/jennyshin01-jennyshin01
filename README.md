@@ -8,12 +8,4 @@
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jennyshin01&show_icons=true&theme=radical" />
-</p>
